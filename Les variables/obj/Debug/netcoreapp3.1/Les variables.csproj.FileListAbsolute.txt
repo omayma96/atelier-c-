@@ -1,0 +1,13 @@
+C:\Users\Youcode\Documents\GitHub\c#\Les variables\bin\Debug\netcoreapp3.1\Les variables.exe
+C:\Users\Youcode\Documents\GitHub\c#\Les variables\bin\Debug\netcoreapp3.1\Les variables.deps.json
+C:\Users\Youcode\Documents\GitHub\c#\Les variables\bin\Debug\netcoreapp3.1\Les variables.runtimeconfig.json
+C:\Users\Youcode\Documents\GitHub\c#\Les variables\bin\Debug\netcoreapp3.1\Les variables.runtimeconfig.dev.json
+C:\Users\Youcode\Documents\GitHub\c#\Les variables\bin\Debug\netcoreapp3.1\Les variables.dll
+C:\Users\Youcode\Documents\GitHub\c#\Les variables\bin\Debug\netcoreapp3.1\Les variables.pdb
+C:\Users\Youcode\Documents\GitHub\c#\Les variables\obj\Debug\netcoreapp3.1\Les variables.csprojAssemblyReference.cache
+C:\Users\Youcode\Documents\GitHub\c#\Les variables\obj\Debug\netcoreapp3.1\Les variables.AssemblyInfoInputs.cache
+C:\Users\Youcode\Documents\GitHub\c#\Les variables\obj\Debug\netcoreapp3.1\Les variables.AssemblyInfo.cs
+C:\Users\Youcode\Documents\GitHub\c#\Les variables\obj\Debug\netcoreapp3.1\Les variables.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Documents\GitHub\c#\Les variables\obj\Debug\netcoreapp3.1\Les variables.dll
+C:\Users\Youcode\Documents\GitHub\c#\Les variables\obj\Debug\netcoreapp3.1\Les variables.pdb
+C:\Users\Youcode\Documents\GitHub\c#\Les variables\obj\Debug\netcoreapp3.1\Les variables.genruntimeconfig.cache
