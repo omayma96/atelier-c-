@@ -1,0 +1,13 @@
+C:\Users\Youcode\Documents\GitHub\c#\Les boucles\bin\Debug\netcoreapp3.1\Les boucles.exe
+C:\Users\Youcode\Documents\GitHub\c#\Les boucles\bin\Debug\netcoreapp3.1\Les boucles.deps.json
+C:\Users\Youcode\Documents\GitHub\c#\Les boucles\bin\Debug\netcoreapp3.1\Les boucles.runtimeconfig.json
+C:\Users\Youcode\Documents\GitHub\c#\Les boucles\bin\Debug\netcoreapp3.1\Les boucles.runtimeconfig.dev.json
+C:\Users\Youcode\Documents\GitHub\c#\Les boucles\bin\Debug\netcoreapp3.1\Les boucles.dll
+C:\Users\Youcode\Documents\GitHub\c#\Les boucles\bin\Debug\netcoreapp3.1\Les boucles.pdb
+C:\Users\Youcode\Documents\GitHub\c#\Les boucles\obj\Debug\netcoreapp3.1\Les boucles.csprojAssemblyReference.cache
+C:\Users\Youcode\Documents\GitHub\c#\Les boucles\obj\Debug\netcoreapp3.1\Les boucles.AssemblyInfoInputs.cache
+C:\Users\Youcode\Documents\GitHub\c#\Les boucles\obj\Debug\netcoreapp3.1\Les boucles.AssemblyInfo.cs
+C:\Users\Youcode\Documents\GitHub\c#\Les boucles\obj\Debug\netcoreapp3.1\Les boucles.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Documents\GitHub\c#\Les boucles\obj\Debug\netcoreapp3.1\Les boucles.dll
+C:\Users\Youcode\Documents\GitHub\c#\Les boucles\obj\Debug\netcoreapp3.1\Les boucles.pdb
+C:\Users\Youcode\Documents\GitHub\c#\Les boucles\obj\Debug\netcoreapp3.1\Les boucles.genruntimeconfig.cache
